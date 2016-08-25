@@ -1,5 +1,5 @@
 -module(gen_testgen_impl).
--behavior(gen_testgen).
+-behaviour(gen_testgen).
 
 %% API
 -export([examplecallback/3]).
